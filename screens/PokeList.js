@@ -223,8 +223,7 @@ const styles = StyleSheet.create({
         fontSize: 20,
         textAlign: 'center',
         fontWeight: 'bold',
-        color: '#333',
-        fontFamily: 'tohoma'
+        color: '#333'
     },
     Loading:{
         paddingVertical: 70,
